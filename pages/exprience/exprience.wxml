@@ -1,0 +1,39 @@
+<view class="container">
+        <view class="header">
+            <!--工作过的公司-->
+             <view class="layout">
+                <view class="layout_title">工作过的公司：</view>
+                <view class="layout_title_one">广东好森活医药连锁有限公司</view>
+                <view class="layout_title_two">广州富仓网络科技有限公司</view>
+             </view>
+             <!--其他-->
+             <view class="layout_two">
+                <!--目前就职-->
+                <view class="jiuzi">
+                     <view class="jiuzhi">目前就职：</view>
+                     <view class="nowjiuzhi">广州富仓网络科技有限公司</view>
+                </view>
+                <!--工作时间-->
+                <view class="time">
+                      <view class="worketiem">工作时间：</view>
+                     <view class="worketiemnow">2018-至今</view>
+                </view>
+                <!--职位-->
+                <view class="position">
+                      <view class="worketiem">职位：</view>
+                     <view class="worketiemnow">小程序开发</view>
+                </view>
+                <!--工作描述-->
+                <view class="descript">
+                      <view class="worketiem">工作描述：</view>
+                     <view class="descript_text">1.团队内部围绕项目进行讨论研究，制定开发方案</view>
+                      <view class="descript_text">2.根据方案设计产品原型图，功能流程图</view>
+                      <view class="descript_text">3.小程序开发，js交互效果</view>
+                      <view class="descript_text">4.对后台接口进行前端渲染数据展示</view>
+                      <view class="descript_text">5.项目完成后的测试，代码及新能优化</view>
+                      <view class="descript_text">6.产品后期运行中遇到的问题跟进处理</view>
+                </view>
+             </view>
+        </view>
+
+</view>
