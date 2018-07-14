@@ -1,0 +1,243 @@
+.container {
+  width: 100%;
+  height: auto;
+}
+
+.header {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.layout_header {
+  margin-top: 10%;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+}
+
+.header_img {
+  margin-left: 5%;
+  width: 20%;
+  height: 200rpx;
+}
+
+.header_img image {
+  border-radius: 50%;
+  width: 200rpx;
+  height: 200rpx;
+}
+
+.forme {
+  margin-top: -26%;
+  width: 80%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.forme_laytou_one {
+  width: 100%;
+  height: 50rpx;
+  font-weight: bold;
+  font-size: 30rpx;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 20%;
+}
+
+.name {
+  margin-right: 10%;
+}
+
+.zheye {
+  margin-top: 15%;
+}
+
+.sex {
+  margin-top: 2%;
+  font-size: 30rpx;
+  margin-left: 35%;
+  font-weight: bold;
+}
+
+.phone {
+  margin-top: 6%;
+  font-size: 30rpx;
+  margin-left: 10%;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.workage {
+  margin-top: 3%;
+  font-size: 30rpx;
+  margin-left: 10%;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.adress {
+  margin-top: 3%;
+  font-size: 30rpx;
+  margin-left: 10%;
+  font-weight: bold;
+}
+
+#xueli {
+  margin-left: 8%;
+}
+
+.age {
+  margin-top: 4%;
+  font-size: 30rpx;
+  margin-left: 35%;
+  font-weight: bold;
+}
+
+page {
+  background: none;
+}
+
+.detailTopTextCon {
+  width: 680rpx;
+  margin: 0 auto;
+  margin-top: 50rpx;
+  position: relative;
+}
+
+.detailTopText {
+  color: black;
+  position: absolute;
+}
+
+.detailTopText1 {
+  margin-left: 271rpx;
+  margin-top: 72rpx;
+  font-size: 84rpx;
+  color: #b23aee;
+}
+
+.detailTopText2 {
+  margin-left: 217rpx;
+  font-size: 40rpx;
+  color: #76eec6;
+}
+
+.detailTopText3 {
+  margin-left: 91rpx;
+  margin-top: 60rpx;
+  font-size: 29rpx;
+  color: #4eee94;
+}
+
+.detailTopText4 {
+  margin-left: 432rpx;
+  margin-top: 16rpx;
+  font-size: 57rpx;
+  color: #00cd00;
+}
+
+.detailTopText5 {
+  margin-left: 126rpx;
+  margin-top: 117rpx;
+  font-size: 37rpx;
+  color: #20b2aa;
+}
+
+.detailTopText6 {
+  margin-left: 459rpx;
+  margin-top: 95rpx;
+  font-size: 47rpx;
+  color: #cdcdb4;
+}
+
+.detailTopText7 {
+  margin-left: 82rpx;
+  margin-top: 175rpx;
+  font-size: 47rpx;
+  color: #caff70;
+}
+
+.detailTopText8 {
+  margin-left: 341rpx;
+  margin-top: 177rpx;
+  font-size: 43rpx;
+  color: #8b0000;
+}
+
+.addfriend {
+  margin-top: 3%;
+  width: 100%;
+  height: 330rpx;
+  box-shadow: 10px 10px 5px #888;
+  display: flex;
+  flex-direction: column;
+}
+
+.addfriend_layout {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.code {
+  width: 100%;
+  height: 200rpx;
+}
+
+.kefu {
+  width: 100%;
+  height: 80rpx;
+  margin-top: 3%;
+  display: flex;
+  justify-content: flex-start;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+
+#onlinewechat {
+  margin-top: 2%;
+  margin-left: 5%;
+}
+
+#onlinebutton {
+  margin-top: 1%;
+  width: 30%;
+  height: 60rpx;
+   border: 1px solid black;
+   font-size: 28rpx;
+   margin-left: 13%;
+}
+
+.code {
+  width: 30%;
+  height: 200rpx;
+  margin-top: 3%;
+  margin-left: 4%;
+  border: 1px solid #ccc;
+}
+
+.code image {
+  width: 100%;
+  height: 200rpx;
+}
+
+.addfriend_text {
+  width: 60%;
+  height: 200rpx;
+  margin-left: 3%;
+  margin-top: 3%;
+  font-size: 30rpx;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+.addfriend_text image {
+  margin-left: 10%;
+  width: 100rpx;
+  height: 80rpx;
+}

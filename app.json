@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/skill/skill",
+    "pages/exprience/exprience",
+    "pages/project/project",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#00BFFF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "text": "自我介绍",
+        "pagePath": "pages/index/index",
+        "iconPath": "images/我.png",
+        "selectedIconPath": "images/我 (1).png"
+      },
+      {
+        "text": "技能介绍",
+        "pagePath": "pages/skill/skill",
+        "iconPath": "images/专业技能.png",
+        "selectedIconPath": "images/专业技能 (1).png"
+      },
+      {
+        "text": "工作经历",
+        "pagePath": "pages/exprience/exprience",
+        "iconPath": "images/工作经验.png",
+        "selectedIconPath": "images/工作经验 (1).png"
+      },
+      {
+        "text": "项目经验",
+        "pagePath": "pages/project/project",
+        "iconPath": "images/项目.png",
+        "selectedIconPath": "images/项目 (1).png"
+      }
+    ]
+  }
+}
